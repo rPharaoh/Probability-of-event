@@ -2,9 +2,6 @@
  *  @file    main.cpp
  *  @author  Nader Nabil,
  *  @date    10/5/2016
- *
- *  @brief Problem was proposed by Alexandra Mirzac
- *
  *  @section DESCRIPTION
  *
  *  Probability of event in random arrays
